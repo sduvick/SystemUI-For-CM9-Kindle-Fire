@@ -85,6 +85,7 @@
     <View style="@style/StatusBarPanelSettingsPanelSeparator" />
 
     <!-- Volume -->
+    <!-- Giving credit where it's due: XDA developer Chiggins -->
     <LinearLayout style="@style/StatusBarPanelSettingsRow" >
         <ImageView
                 android:id="@+id/volume_icon"
